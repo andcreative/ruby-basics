@@ -6,3 +6,5 @@ if x == 10
 else 
     puts "x não é igual a 10"
 end
+
+#aprender elsif!!
